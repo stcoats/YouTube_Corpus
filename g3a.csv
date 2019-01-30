@@ -1,0 +1,507 @@
+"","channel_name","location","channel_id","lat_long2","no_videos","wordcount"
+"1","Ownby US/VA Government","Richmond, Virginia","UCMJ9hCPzPs_DiPcX-GQEjZw","(37.5633011, -77.4569801)",4,1478
+"2","Florida Government","St. Petersburg, Florida","UCy9172bFY8usKzYt_KQGBJw","(27.7739864, -82.64083219999999)",4,3140
+"3","Pennsylvania Municipal League","Harrisburg, Pennsylvania","UC4XZkKTzJb1Mn4PBweUcP6Q","(40.2627665, -76.8867669)",32,14796
+"4","Town of Wiggins","Wiggins, Colorado","UCLfzJYfsilF0D3dQGKMpGbw","(40.2305363, -104.0727278)",19,319767
+"5","Orange County, NY Government","Orange County, New York","UCU3TVLdskRq8PPcLuNugy1A","(41.3911653, -74.3118212)",2,12876
+"6","Greenville Wisconsin","Greenville, Wisconsin","UCJdbHHH0GVrnrLQ2P5rsy9Q","(44.3002628, -88.53649539999999)",32,103818
+"7","News Now Colorado","Colorado Springs, Colorado","UCmQIlF7oc5d4MFoqCLYWxrA","(38.841051, -104.739221)",16,15606
+"8","Prince George's County Government","Upper Marlboro, Maryland","UCO2d1EtrwB-VuFJAOxsApLg","(38.8180043, -76.7508472)",1,14954
+"9","City of Lewiston, ME","Lewiston, Maine","UCprFi23oI7DclYQ8kxx_mmQ","(44.100351, -70.21477639999999)",14,17614
+"10","CityofDurhamNC","Durham, North Carolina","UCHUDjJ4VIFaf3a9ap9s5qEA","(35.9940329, -78.898619)",225,403093
+"11","CityOfTitusville","Titusville, Florida","UCvQPDngBunvcPZsioiJuQ_g","(28.6122187, -80.8075537)",10,10104
+"12","Orange County North Carolina Video","Hillsborough, North Carolina","UCWv68m-BGtw4OBxzOMB8fnQ","(36.0741901, -79.0808665)",38,27582
+"13","CO Pearland","Pearland, Texas","UCRAyWlB2d1XLCJ8SHH8xyxQ","(29.5434205, -95.2225551)",31,10862
+"14","Illinois Youth & Government","Downers Grove, Illinois","UCpPYpbakFJmcoyhF-9mersw","(41.8330175, -88.01940429999999)",7,7989
+"15","City of Mt. Pulaski","Mount Pulaski, Illinois","UCUGntHxJMcrkLQTsfMI0eaw","(40.0108767, -89.282314)",8,27614
+"16","City of Portage, WI","Portage, Wisconsin","UC1js1AsdSXS9xpPGeQDfHSQ","(43.5391486, -89.46262019999999)",8,2276
+"17","Montana Municipal Interlocal Authority","Helena, Montana","UCTJLv2_9DzbmeSdMrqOzHYQ","(46.616824, -112.030694)",3,2189
+"18","City of Ammon, Idaho","Ammon, Idaho","UC9fNsA0JthGQ7mD8wB7FJXQ","(43.4696366, -111.9666355)",1,1043
+"19","Lake County, FL - Government","Tavares, Florida","UCd3YB4jmtmtKA1VkRXw33aQ","(28.801728, -81.72981)",26,9014
+"20","Apache County, AZ","Apache County, Arizona","UC2nB5nlo3B_zC-BapdrSE5A","(35.5313224, -109.3783206)",2,12643
+"21","Utah Office of the State Auditor Local Government Division","Salt Lake City, Utah","UC_zj1HbPzVfj5hzv89KCu6w","(40.7775314, -111.8878716)",6,1611
+"22","Green Government Montgomery County MD","Bethesda, Maryland","UCvrndKse0tZwqiF70tW7m_w","(38.9850174, -77.08889719999999)",9,3923
+"23","League of Minnesota Cities","St Paul, Minnesota","UC7dPiX83ITyP5YJokRKC8rw","(44.95609, -93.10669)",16,8733
+"24","NM Youth And Government","Albuquerque, New Mexico","UC6ZG3Yjs3LoQnRtvrbZ0gYg","(35.1116958, -106.6320615)",4,4842
+"25","City of El Paso Texas","El Paso, Texas","UCwYdX-cXdg609Ppl8Bjq07g","(31.7618778, -106.4850217)",27,92219
+"26","City of Gravette, Arkansas - Official","Gravette, Arkansas","UC5L-KVG-9wiBtZRebmjX5pQ","(36.4220207, -94.4535484)",3,1067
+"27","City of Jacksonville, Florida","Jacksonville, Florida","UCDz1-m1rzglGoYCHG-yTLaA","(30.3321838, -81.65565099999999)",7,5902
+"28","City of Woodbury MN","Woodbury, Minnesota","UCDsJCsK3YLLVgRbg34kABMA","(44.9238552, -92.9593797)",312,240156
+"29","Oklahoma Municipal League","Oklahoma City, Oklahoma","UCq709y5jiSJf5sPulXKoXww","(35.493524, -97.507459)",11,3655
+"30","City of Milwaukie Oregon","Milwaukie, Oregon","UCRFbfqe3OnDWLQKSB_m9cAw","(45.4465323, -122.6323315)",8,8091
+"31","County of El Paso, Texas Commissioners Court Public Meetings","El Paso, Texas","UC-2RxYOS6Y6VkDlp5eM0OLA","(31.7582637, -106.4841176)",52,725858
+"32","City of Sanford, FL","Sanford, Florida","UCrOGg6n2Qjw6yujcrwc0Z3g","(28.8028612, -81.269453)",17,14679
+"33","Georgia Municipal Cemetery Association","Atlanta, Georgia","UChq_4HlWrpaIhozKkgS2LWA","(33.7496533, -84.39302839999999)",1,5824
+"34","New Mexico House of Representatives","Santa Fe, New Mexico","UCIrMQ6ct5h9f2f6-_uZpNOw","(35.6821782, -105.9396627)",7,1259
+"35","CityOfBeatriceNE","Beatrice, Nebraska","UCNqBm24raflfC7qGBgqLQbQ","(40.2659269, -96.7466913)",93,547113
+"36","City of Maricopa","Maricopa, Arizona","UCcGYzD73sGc7P9gH6kZJC3A","(33.0581063, -112.0476423)",104,316325
+"37","City of Las Vegas Government","Las Vegas, Nevada","UCH9xyXcOBq9hEEkkx9iaojw","(36.1674222, -115.1487183)",17,25476
+"38","Falls Township PA","Fairless Hills, Pennsylvania","UCXkR2V1sBOCmVB3S5aHEjTA","(40.1740577, -74.8530595)",46,412289
+"39","cityofminneapolis","Minneapolis, Minnesota","UC1IHi7mIMbFhZo4j_H6QIsA","(44.977753, -93.2650108)",48,446405
+"40","City of Newark, Delaware","Newark, Delaware","UCkUa0_pCSXUlTQaeXLd73eA","(39.6837226, -75.74965720000002)",103,219589
+"41","City of Concord NH","Concord, New Hampshire","UCDD8p5ZXUSNhW3_l8S78W5w","(43.2081366, -71.5375718)",13,8420
+"42","City of Brentwood, TN","Brentwood, Tennessee","UCpy4tA7ME8ra38IDTTAXHVw","(36.0331164, -86.78277720000001)",34,10425
+"43","City of Greeley Government","Greeley, Colorado","UCegM3TAyGPayKBUHIeQCv6w","(40.4261819, -104.6949673)",21,15063
+"44","City of Monroe, Michigan","Monroe, Michigan","UCiO2fcMaMm-faFWMWNTcFIw","(41.9164343, -83.3977101)",7,29640
+"45","City of Maplewood MN","Maplewood, Minnesota","UCFoyXqYAzbo9ieihH-08zAA","(44.9530215, -92.9952153)",62,57801
+"46","Ada County, Idaho","Ada County, Idaho","UCmREyet73vxhBFCffWClEKA","(43.478767, -116.2420304)",19,161403
+"47","City of Little Falls, MN","Little Falls, Minnesota","UCDJcQU_2dOXIixQEJzQ7_aQ","(45.9805556, -94.36944439999999)",38,250732
+"48","City of Sioux City Council","Sioux City, Iowa","UCrekGAbOEqDvdzn9w8FAcoQ","(42.4965857, -96.40594519999999)",69,812481
+"49","North Dakota AFL-CIO","Bismarck, North Dakota","UCNEsTdrFb3fgJBD_QzKr_ug","(46.803712, -100.771268)",2,2672
+"50","Maryland Municipal League","Annapolis, Maryland","UCgG96iwVAdX7Y-RNL2u8pow","(38.9777014, -76.5132089)",24,8644
+"51","SCCMOTV","St Charles County, Missouri","UClZsKsIKtPJkYwn1BtJgAFA","(38.7338885, -90.8294002)",402,844253
+"52","City of Republic","Republic, Missouri","UCmvA973eokxbVlHVODl-1_A","(37.1200526, -93.4801942)",64,410465
+"53","City of Middletown, Ohio","Middletown, Ohio","UCh-fZasNyuDxLyVxjmcaCIw","(39.5150576, -84.39827629999999)",13,92882
+"54","Jersey City TV","Jersey City, New Jersey","UCdLHkxEC-vqQLcJ9URFSjxw","(40.70164740000001, -74.0954634)",1,21922
+"55","Sacramento County District Attorney's Office","Sacramento, California","UCi0AEGcHEB460WW_VC1g6NA","(38.5841801, -121.4930305)",76,34892
+"56","City of Greenville, NC","Greenville, North Carolina","UC3Ud91UVasbpi8wPVDlcCRA","(35.612661, -77.3663538)",375,302110
+"57","Adams County CO Government","Brighton, Colorado","UC7KDbF1XykrYlxnfhEH5XVA","(39.9239028, -104.8126509)",361,942859
+"58","Texas Municipal League Intergovernmental Risk Pool","Austin, Texas","UCCk9C8LXg9ncBGrFlog24Lg","(30.3316115, -97.6812044)",21,69203
+"59","Dayton, Ohio - City Government","Dayton, Ohio","UC8upHquptA3gqvKO7qXZvIg","(39.75962, -84.194052)",1080,3005549
+"60","City of Mesa","Mesa, Arizona","UCxhnbjW5_gD9I4gk_5t6-Aw","(33.4151843, -111.8314724)",190,243349
+"61","City of Centerville, Ohio","Centerville, Ohio","UCXLOLKzXqOtD9BSlPGrDBHQ","(39.6283928, -84.15938179999999)",67,156724
+"62","Kern Government Television","Kern County, California","UCmUJZiUo7nYq2x3IOnPqd5A","(35.4937274, -118.8596804)",185,1818059
+"63","Vermillion City Council","Vermillion, South Dakota","UCuzkuhioz6Qycw2w7LVP6Bg","(42.7801475, -96.9313383)",3,22868
+"65","City of Mt. Shasta, California","Mount Shasta, California","UC3RTHPMvubRfg1lMsXVKzNg","(41.3098746, -122.3105666)",10,3248
+"66","Ottumwa Iowa","Ottumwa, Iowa","UCSPVpWJuu42NT03S9XgFFAA","(41.01602930000001, -92.40830220000001)",74,830866
+"67","Macomb Board of Commissioners","Mount Clemens, Michigan","UCDhWnZ6RMvQWhRHVfanLBxw","(42.5963627, -82.8780386)",234,1814243
+"68","Sunbury Videos","Sunbury, Pennsylvania","UCP6obhaxx_cy4JKoPwFLQ5g","(40.8618561, -76.7779541)",45,171510
+"69","Town of Whitestown","Whitestown, Indiana","UCpbwXmmh-voRDSN3qtn5Hfw","(39.9972626, -86.3458296)",176,645435
+"70","City of Boulder","Boulder, Colorado","UCAHm_LCXkzWpph_NDqZ0I4Q","(40.0149856, -105.2705456)",839,2055431
+"71","City of Broken Arrow","Broken Arrow, Oklahoma","UCAOrvaXvUHojbjsEn72Y-Dw","(36.060949, -95.7974526)",2,1943
+"72","Beaufort County NC Government","Washington, North Carolina","UCucOU3BykLPoXU2KjvX3CCg","(35.5432661, -77.0547823)",79,1026389
+"73","Marion CountyFL","Marion County, Florida","UCmYgAek8oIGmMcZe_y0OGzw","(29.2787765, -82.12783999999999)",164,1628845
+"74","Connecticut Conference of Municipalities","New Haven, Connecticut","UCjkAzQTiyYHKbBul87L2ygg","(41.297205, -72.9127429)",44,20117
+"75","City of Florence, Kentucky","Florence, Kentucky","UCKAoTbCHbQPSIf80S5wYhlA","(38.9989499, -84.62661109999999)",32,152768
+"76","City of Saratoga Springs","Saratoga Springs, Utah","UCL97Ck7JMecdpmZLudfVhPQ","(40.3301898, -111.9044877)",81,1072555
+"77","City of Maple Valley - Official","Maple Valley, Washington","UCBOARNqj0-h6M0r0q8xgY-A","(47.3911867, -122.047031)",8,4409
+"78","City of Parkersburg ,WV","Parkersburg, West Virginia","UCnB1o9IZ7LWLn6rcupcRlDw","(39.2667418, -81.56151349999999)",7,1109
+"79","City of Clovis, NM","Clovis, New Mexico","UC3jy8DqeO4AA3GiB73JSyMQ","(34.4047987, -103.2052272)",6,8070
+"80","Monroe North Carolina Government","Monroe, North Carolina","UCzrGKOKR72fmCEn7D0f9mlg","(35.0110269, -80.5447384)",14,54101
+"81","CityPortStLucie","Port St. Lucie, Florida","UClq_tphDlSHirmsyLeHJiig","(27.2730492, -80.3582261)",2,8140
+"82","CityofGenevaIL","Geneva, Illinois","UCobt6LRW-pMEmfGNVuy5NxA","(41.8875281, -88.3053525)",140,1126811
+"83","City of Ferrysburg, MI","Ferrysburg, Michigan","UCMqr_ibvxyZlVajOzl-Tr3g","(43.08446199999999, -86.2203313)",10,75297
+"84","Utah County Government","Provo, Utah","UCkRYDnXVDLGv9792bhWn9Wg","(40.2330328, -111.6568586)",69,826058
+"85","ErieCountyNY","Erie County, New York","UC-bqfNQx5a6oFLVOX8kGeiw","(42.9023958, -78.8661589)",48,54007
+"86","Bay Saint Louis City Council","Bay St Louis, Mississippi","UCfZVth2EfSBM4lVvXg_H-kw","(30.316913, -89.345498)",21,249595
+"87","Cass County ND","Cass County, North Dakota","UC2YN9WLXQ0kjDXIwdcPYC9Q","(47.071168, -97.12155790000001)",6,1462
+"88","CityofDestin","Destin, Florida","UCn_D1Iq1xxZhrkenq1d7EYA","(30.3935337, -86.4957833)",137,1126702
+"89","San Diego County Water Authority","San Diego, California","UCbcVbucoGZmmZSHLKIHe8rg","(32.8255245, -117.1312866)",129,81730
+"90","City of Rosemount, MN","Rosemount, Minnesota","UCHJ2l9oFLxFeDoISijWtNMQ","(44.7394103, -93.12577230000001)",2,8283
+"91","Campbell County, Wyoming (Government)","Campbell County, Wyoming","UCl2KcXV1L_HJZlcZyxhapWw","(44.3956107, -105.4489183)",12,45758
+"92","City of Columbia, TN","Columbia, Tennessee","UCjjZOwKcE8_lPi4KmbzoI0g","(35.616078, -87.03504699999999)",11,7071
+"93","Oswego County Government","Oswego, New York","UC1ELFNINuYGu9umMYQoyKMg","(43.4576107, -76.50614279999999)",2,8430
+"95","Maine Bureau of Human Resources","Augusta, Maine","UCu-W8zF89UHdxwvJbpx6esA","(44.30731979999999, -69.7828983)",4,1110
+"96","PasadenaChannel","Pasadena, Texas","UC514B1OlciNW3q7lZU94PiA","(29.69137, -95.1843055)",77,57087
+"97","WashCo Commissioners","Hagerstown, Maryland","UCTH850WDpvgeJXEI6Bp-nwg","(39.64347710000001, -77.72278229999999)",68,521067
+"98","PittCountyNC","Pitt County, North Carolina","UCNbby4KXClggL9c-kVrpFww","(35.5589221, -77.4242972)",284,549269
+"99","cityofokc","Oklahoma City, Oklahoma","UCu7sVASWMRZ6V6F7EebBlbA","(35.4675602, -97.5164276)",90,990425
+"100","MtPleasantMI","Mount Pleasant, Michigan","UCbfjqB0HPkc6KHaQa4_zVgg","(43.59780749999999, -84.7675139)",50,252403
+"101","Marin County, California - Topic","Marin County, California","UC7bWBURktSO66zx5c2_iKww","(38.083403, -122.7633036)",29,20882
+"102","City of Oxnard Government - Official","Oxnard, California","UCyYBxLRP6z33lKEkyxreAUA","(34.2000543, -119.1802258)",18,15086
+"103","City of Asheville","Asheville, North Carolina","UC2QG4OKWo8tQ-h3fAwxr4eg","(35.5950581, -82.5514869)",208,806049
+"104","City of Corona","Corona, California","UC9_CEJrk_tnfVR7hyl6Kpwg","(33.8752935, -117.5664384)",2,2006
+"105","City of Independence, Missouri","Independence, Missouri","UC95egG4Say-HvNrlJT_yCXg","(39.0911161, -94.41550679999999)",111,431599
+"106","City of Old Town, Maine","Old Town, Maine","UCnnzsRkjzkSJQjzHjys6zGw","(44.9342349, -68.6453092)",78,453150
+"107","City of Shenandoah, Texas","Shenandoah, Texas","UC5-9qrdkO9wip4I0vyCXq9g","(30.1802151, -95.45577259999999)",29,371792
+"108","City of Newark NJ","Newark, New Jersey","UCNiGYwneyNvfAIAcl6eOqmw","(40.735657, -74.1723667)",79,102854
+"109","City of San Angelo","San Angelo, Texas","UCg9JRjdLIq0ZTMHn1fioiJw","(31.4637723, -100.4370375)",92,917203
+"110","Caribou, Maine","Caribou, Maine","UCunLIlhYrhdsdvfjRKYCYdQ","(46.8639995, -67.9980365)",75,489360
+"111","Louisiana Municipal Association","Baton Rouge, Louisiana","UCHLSr4SUANCYoYEpQatv5UA","(30.4538341, -91.1798063)",3,1045
+"112","The City of Irving","Irving, Texas","UCnakJoKIjNzMALPhHXxwFEA","(32.8140177, -96.9488945)",414,738800
+"113","City of Mission Tx","Mission, Texas","UCha07JnlG0muI97kb9u0Iig","(26.2159066, -98.32529319999999)",85,164293
+"114","Lee County FL","Lee County, Florida","UCSnQCEJdfUrobF9dxUltyyA","(26.6630286, -81.9534815)",44,18800
+"115","Dane County Board of Supervisors","Madison, Wisconsin","UCgfH3y3SXmNkSZkjp7kCUdQ","(43.072422, -89.382392)",2,1126
+"116","City of San Clemente","San Clemente, California","UCMJuEbFMmHeG8RBe-m6s7JQ","(33.4273521, -117.6126004)",84,1033782
+"117","City of Warrenville","Warrenville, Illinois","UCcO8hN6YoUmWZrDFNASMzAQ","(41.81780699999999, -88.17340209999999)",84,701719
+"118","New Jersey League of Municipalities","Trenton, New Jersey","UCbce9oVw9LvO6vxNz_89mZw","(40.2222399, -74.7735452)",13,11420
+"119","City of Newberry","Newberry, Florida","UC9MNwMuigm3PeKHacwz2xQQ","(29.6463535, -82.6065023)",78,999022
+"120","Kentucky League of Cities","Lexington, Kentucky","UCr7WAKemYwT87iELNQfcybQ","(38.045112, -84.49808999999999)",28,38552
+"121","Council Meetings - City of Rochester Hills","Rochester, Michigan","UCRzGsdrhFdimra0g1Gw4HqA","(42.6833372, -83.1372157)",17,296862
+"122","LakeCountyTV","Round Lake Beach, Illinois","UCnKKNni9P9HgvUhNlszYu4w","(42.3785576, -88.0857913)",13,8322
+"123","City Channel 4 - Iowa City","Iowa City, Iowa","UCDfQkGRr6dgTs07YZdCUH_g","(41.6609059, -91.5315148)",684,2953891
+"124","Town of Chester, NY","Chester, New York","UCcfUBNLL64j3sKxfuxTtcog","(41.3625937, -74.27126129999999)",30,251787
+"125","TownofCohasset","Cohasset, Massachusetts","UCtPH47tVZoFwqFm8nN7JrMw","(42.24176749999999, -70.8036544)",32,503121
+"126","austintexasgov","Austin, Texas","UCa6J9IdgL8Lir6YIQNsbkgQ","(30.2671108, -97.7352672)",45,32181
+"127","City of Springdale, Arkansas","Springdale, Arkansas","UCDBXZsuggNDRY1QTEqH2MQg","(36.18674420000001, -94.1288141)",83,786569
+"128","City of Anderson, Indiana","Anderson, Indiana","UCMDJQTb1x8xHky-Jxmu8PIA","(40.1053196, -85.6802541)",149,352603
+"129","CityofPhoenixAZ","Phoenix, Arizona","UCx7FQNzOFCbtExt_gRub9JQ","(33.4483771, -112.0740373)",1107,3582667
+"131","City of Victoria, MN","Victoria, Minnesota","UCx9xeLv6v0F0bMzK1BxMEzQ","(44.8587227, -93.6615338)",12,81355
+"132","City of Horace","Horace, North Dakota","UCHdzO6P-1enZkMG7Z87QdGA","(46.7588553, -96.9036971)",42,430262
+"133","City of Charlotte","Charlotte, North Carolina","UCr8xW9jfl6OiwjQuRwX4bWQ","(35.2270869, -80.8431267)",84,474547
+"134","Surprise TV","Surprise, Arizona","UChvREiqh2Lc3HoTGqcPb3vg","(33.6297375, -112.3654922)",144,240296
+"135","ConnecticutNetworkTV","Hartford, Connecticut","UC5i71kM8tvpFKG60XyLLRMA","(41.7584274, -72.67567740000001)",14,8030
+"136","eGov PDX","Portland, Oregon","UCcPIUh7CWwtBXisMPHWG65g","(45.5122308, -122.6587185)",24,422860
+"137","City of Hendersonville, TN","Hendersonville, Tennessee","UCy-XOO0Miyy8QIuE4B4fRuA","(36.3047735, -86.6199957)",79,915301
+"138","James City County","James City County, Virginia","UC1YcYMSX__2VbO2Mi3udVRw","(37.3002132, -76.8028933)",159,547960
+"139","CityOfGreenBay","Green Bay, Wisconsin","UCd0WTidHx2LPWIJY-xrH9eg","(44.5133188, -88.0132958)",338,2453873
+"140","City Channel Columbia MO","Columbia, Missouri","UCMvapUGDpxyLUUWNO8fxkdA","(38.9517053, -92.3340724)",177,193834
+"141","Pennsylvania Youth and Government","White Haven, Pennsylvania","UCcBuZVx4F52Dm_i2btUngFA","(41.0268556, -75.7135563)",33,21249
+"142","Eagle Mountain City, Utah","Eagle Mountain, Utah","UCE6PWygb_g-qDncu6tkhU-g","(40.31411689999999, -112.006882)",78,928360
+"143","syracuse.com","Syracuse, New York","UChbYn187BlBxq5LfGqZSv_A","(43.0481221, -76.14742439999999)",107,47840
+"144","Spring Hill","Spring Hill, Tennessee","UCQEXn0j-fLqffqG4s6QBFfQ","(35.751179, -86.9300023)",14,19491
+"145","City of Rio Rancho, NM Municipal Government","Rio Rancho, New Mexico","UCQbt-un8dQITuiIRLcbtq8Q","(35.3109281, -106.6850204)",19,27715
+"146","City of Fairhope","Fairhope, Alabama","UCQsD9rKnDZ7Fik7D22bI0gw","(30.5229719, -87.9033261)",182,1923680
+"147","City of Santa Clara","Santa Clara, California","UCBMGaWSyRhcGxg0fSG4msDA","(37.3541079, -121.9552356)",115,1274012
+"148","City of Alice, TX","Alice, Texas","UC_9x9G-IMyGx4zPHxawQr5A","(27.7522487, -98.0697249)",84,727211
+"149","Contra Costa Television","Martinez, California","UCD1z6XC8_fqZXP3HayI-kQA","(37.9952189, -122.1220089)",57,402042
+"150","City of Bloomington, Illinois","Bloomington, Illinois","UCS8WR70NFd2XMmFYRDHEGEw","(40.4842027, -88.99368729999999)",98,1165334
+"151","Hillsborough County","Hillsborough County, Florida","UC-ltrT7T2PDRdEEoU5NtOEg","(27.9903597, -82.3017728)",70,39574
+"152","City of Austin, Minnesota","Austin, Minnesota","UCz8RVD73YkHomdRrT_5LBwQ","(43.6666296, -92.97463669999999)",97,81298
+"153","Maryland YMCA Youth & Government","Gwynn Oak, Maryland","UCC0szOnY50huTkcp1kqB3Rg","(39.326126, -76.6837006)",1,1703
+"154","Town of Orangetown","Orangetown, New York","UCiO7szhtu7X___gRqoFkuOg","(41.0555461, -73.94773839999999)",24,160102
+"155","City of San Antonio","San Antonio, Texas","UCc1cljyxKwZYVnDapMi26eQ","(29.4241219, -98.49362819999999)",184,142702
+"156","City of Grand Marais","Grand Marais, Minnesota","UC8OF_XBXW9WJuCZEIzxSlIQ","(47.7504469, -90.3342727)",18,233692
+"157","NYC Mayor's Office","New York, New York","UClnI1zhyzv_BPb-VSHEtniw","(40.7133871, -74.00743609999999)",852,3698787
+"158","SCCGov Chambers","Santa Clara County, California","UCF4DoI6Shq5PtVGaQRrAerw","(37.3336581, -121.8907041)",11,152126
+"159","CityOfNormanOK","Norman, Oklahoma","UCRUefgW2qlHl6uJwIS7KQXQ","(35.2225668, -97.4394777)",71,311789
+"161","Lebanon, Indiana","Lebanon, Indiana","UCr7VceVqyRwrsJEhejJinGQ","(40.0483744, -86.4691677)",5,8738
+"162","Texas Counties","Austin, Texas","UCypcad6NCCz1KNAkygXmNzA","(30.2762229, -97.74499279999999)",135,162730
+"163","Bellevue Television","Bellevue, Washington","UCW22suSoHWumwarCbu3NkOg","(47.60455899999999, -122.1305799)",3,2281
+"164","Sullivan County NY Government","Monticello, New York","UC-6KnDAiuQEnDNWO13Ev1sw","(41.6584571, -74.6917748)",26,19938
+"165","Saint Francis MN","St Francis, Minnesota","UCC44uGV-mS_2SCvUhBy_scA","(45.3974847, -93.38792199999999)",53,378531
+"166","warren-ma.info","Warren, Massachusetts","UCSemWSWv9vohWfvvyHaYAlA","(42.2125423, -72.19118499999999)",10,46576
+"167","LitchfieldTV","Litchfield, New Hampshire","UCghq7fALfNAB53QKWlOyScw","(42.8420373, -71.4807697)",266,2228320
+"168","Hennepin County MN","Hennepin County, Minnesota","UCJDcgrMl0B2Og4ZdeOOrnFA","(45.0208911, -93.5094574)",56,50713
+"169","FaithCity MD","Upper Marlboro, Maryland","UC3cUrijYglWHJ81RrZ_jNUw","(38.8354067, -76.8628623)",29,303648
+"170","Montana YMCA Youth and Government","Montana, US","UCTcNqEsmDnz8dAb1DUv40eg","(46.8796822, -110.3625658)",8,29806
+"171","LA City Emergency Management","Los Angeles, California","UChO9l1ByinQ7u1epchCv3vg","(34.0505911, -118.1763924)",11,5737
+"172","The City of Grand Rapids","Grand Rapids, Michigan","UCBObm_Q73DcEDhgvdmoOh1w","(42.9633599, -85.6680863)",453,1181683
+"173","City of Post Falls, Idaho","Post Falls, Idaho","UC7PL9bReR18BlDnsmiOlraw","(47.7179578, -116.9515856)",163,1071984
+"174","Digital Peoria","Peoria, Arizona","UCr2anV7zsCAo1Rvjga7nYEA","(33.6282856, -112.2392489)",192,774164
+"175","CityofOrlando","Orlando, Florida","UCTOsxjDi8Wow6xhEbGvVugA","(28.5383355, -81.3792365)",444,1546645
+"176","CityOfThousandOaks","Thousand Oaks, California","UCsSwux-Xmetz846gSsmptDw","(34.1705609, -118.8375937)",87,163568
+"177","GainesvilleDistrictSupervisorPWC","Gainesville, Virginia","UCaC60DAYb0S1-YQ9LcV_0pQ","(38.8028594, -77.6018331)",7,3587
+"178","Augusta Georgia","Augusta, Georgia","UCj33t_Opz-YZ7auj6-RIs_A","(33.4734978, -82.0105148)",59,69651
+"179","City of Arkansas City, Kansas","Arkansas City, Kansas","UCvQiHdrfXJc-sH4GxsFdx_A","(37.06268, -97.03985)",22,121008
+"180","Northglenn Colorado","Northglenn, Colorado","UCqtvPKHWSX-ukNYDjPYH6ug","(39.8961821, -104.9811468)",111,509696
+"181","TOMP Council Meetings","Mount Pleasant, South Carolina","UCNhfTlBOB2AbKtELKzY7_yQ","(32.8323225, -79.82842579999999)",9,167287
+"182","City of Livingston CA","Livingston, California","UCB_ZmQZIHELh-ECEPZ2VwZg","(37.3868826, -120.7235329)",22,302150
+"183","Township Council Meetings","Sewell, New Jersey","UCqFPQ63LV3q5cA_yjnCnsmA","(39.7397316, -75.0685712)",39,852928
+"184","Minnesota YMCA YIG Youth in Government","Minneapolis, Minnesota","UCcr5YqIWxXtSQ4NbKzhQoCA","(44.9774001, -93.2307091)",10,3709
+"185","City of Arlington, TX","Arlington, Texas","UCmEJ9qX33iCpEKauFojkybg","(32.735687, -97.10806559999999)",1063,464499
+"186","City of Richfield","Richfield, Minnesota","UCW3EbpPy_Xwb2moaUUOFhVA","(44.8832982, -93.28300209999999)",458,1609502
+"187","Louisiana Gov","Baton Rouge, Louisiana","UCu6XLJo8g_k5IZX6sjpV14A","(30.4528716, -91.18897740000001)",138,399602
+"188","City of Plattsburgh, New York","Plattsburgh, New York","UC7H36PiuYNJJkZpczbLvCbw","(44.6994873, -73.4529124)",1,9445
+"189","AroundTulareCounty","Tulare County, California","UCI-iY8dkFYiDdTAHhtFglRg","(36.1341739, -118.8596804)",7,3397
+"190","City of Cocoa, Florida","Cocoa, Florida","UCbWJK7XQyPVBmp15Fwoa4jA","(28.3861159, -80.7419984)",35,196867
+"191","eXplore Xenia","Xenia, Ohio","UCUFFzFWxDl_DMOe9J7QzmgA","(39.686438, -83.929177)",36,197508
+"192","Germantown Municipal Television","Germantown, Tennessee","UC4td-0odYtwzyFJSF6jN34w","(35.0971915, -89.8414354)",188,888272
+"193","cityofhayward","Hayward, California","UC-t5eCY7p3nbBalxbMP9vFQ","(37.6708446, -122.0857338)",78,392456
+"194","City of Rochester, NY .Mayor's Office","Rochester, New York","UC6E4c_jmhJPH7kR_GKnbpug","(43.1569913, -77.6148934)",311,437303
+"195","Suffolk County Government","Yaphank, New York","UCBY8LgV6_y7QUn0c4lgxurw","(40.8298283, -72.9187438)",42,118481
+"196","CityofVacaville","Vacaville, California","UCLC4Gd7Z4rwlWOciZVhlJJw","(38.3565773, -121.9877444)",22,48678
+"197","City of Willmar","Willmar, Minnesota","UCtCdc2xGb0Hvrk6dd5OpmoA","(45.1223711, -95.048659)",196,1137186
+"198","FrederickCountyMD","Frederick County, Maryland","UCxww6nBEuO-ZiYZRN65rsBw","(39.3844507, -77.4701972)",32,95791
+"199","City of Fremont, CA","Fremont, California","UCLm12bAo9z_1ob9UG69ZGKQ","(37.5482697, -121.9885719)",46,60882
+"200","Daniel, Utah Town Meetings","Daniel, Utah","UCNl9vzo3Afm_qhRoXdDrqPg","(40.4720026, -111.4314629)",34,180259
+"201","City of Elk River","Elk River, Minnesota","UCdrWdP44oLkWv-hc0SIWF6g","(45.33772829999999, -93.56911219999999)",145,81092
+"202","City of Ellsworth, Maine","Ellsworth, Maine","UCAoSufogSQbl5N5AtUIid4Q","(44.5434095, -68.4194641)",93,736465
+"203","City of Aztec","Aztec, New Mexico","UCfNiVUYD4XKKwxOhtNvCauA","(36.8222261, -107.9928455)",65,478860
+"204","Philadelphia City Council","Philadelphia, Pennsylvania","UC9bXJCRFPLxMhT22nZ7t8XA","(39.9523789, -75.1635996)",831,4674063
+"205","City of Brooklyn, Ohio","Brooklyn, Ohio","UCRRKkTWR8peOgYgo4JvhxWA","(41.4301349, -81.7512107)",56,399046
+"206","City of Crescent City, California","Crescent City, California","UCc8LIkDxscuciAFNB9yEEMA","(41.7557501, -124.2025913)",25,195993
+"207","Kentucky Department for Local Government - DLG","Frankfort, Kentucky","UC4CErK3o_ZmjaQNdxYDUqtg","(38.1839425, -84.8144551)",13,3311
+"208","City of Meridian","Meridian, Idaho","UCcQl8wZRqYIfxccWrUJBewg","(43.6121087, -116.3915131)",463,2034393
+"209","VT Environmental Assistance Office","Montpelier, Vermont","UCS2vjqFSHAqKkHvRSk0Fy1w","(44.2560755, -72.5845027)",7,23214
+"210","BeatriceNE","Beatrice, Nebraska","UCU5o7cx5DzXuWYZhcetoZAg","(40.1989041, -96.663812)",5,22351
+"211","Westville Indiana","Westville, Indiana","UCLcCLBCsqiXSuVu_jJfGKaw","(41.54142969999999, -86.9005825)",21,130629
+"212","City of Laconia, NH","Laconia, New Hampshire","UCDfxg8m4IMiGZikLF5pbE_g","(43.5278546, -71.4703509)",125,1506776
+"213","North Augusta SC 20/20 City Council Meetings Etc.","North Augusta, South Carolina","UCkwe765ru7YpKlWoeCj0DxA","(33.5018026, -81.9651152)",1,6523
+"214","City of West Melbourne","West Melbourne, Florida","UC0rw9-ZqduSTcs6uBNU7_ag","(28.0716832, -80.65338779999999)",17,242240
+"215","City Of Fort Morgan","Fort Morgan, Colorado","UCo7J2v3KqEOx45rG-GxlJOg","(40.2502582, -103.7999509)",49,567941
+"216","Putnam County TN Government","Cookeville, Tennessee","UC2D4OD-kL2jUOtpY0KHktFA","(36.1494165, -85.5229902)",56,258272
+"217","County Of Del Norte","Del Norte County, California","UC7jaWC4x7QAq1bgC2L-aYvw","(41.7076287, -123.9659708)",75,808018
+"218","City Of Durant Council Chambers","Durant, Oklahoma","UCQO-_Crp48w7jN-mZ0oGGVQ","(33.992975, -96.378669)",20,240612
+"219","Municipal Meeting","Lower Providence Township, Pennsylvania","UCYkaKwd_1OokRKlvteABFZQ","(40.1433257, -75.42281899999999)",123,1375575
+"220","City of Lakewood","Lakewood, Washington","UC6kjNiFzrc9PwiTF_zTTaRQ","(47.1717649, -122.518458)",13,240917
+"221","The City of Frederick","Frederick, Maryland","UCTig2g9-KiZFgNg8kYxeKXA","(39.41426879999999, -77.4105409)",147,263820
+"222","City of Santa Maria, California","Santa Maria, California","UCAmcDZPVzV6jUnVIof3F7dw","(34.9530337, -120.4357191)",152,1163548
+"223","WestminsterCO","Westminster, Colorado","UCJeyak1VUsnc1rPehZPNswg","(39.8366528, -105.0372046)",84,61894
+"224","City of Galesburg, IL","Galesburg, Illinois","UCaRXtxhs0iGsSDksooZwC7g","(40.94781580000001, -90.3712395)",2,2880
+"225","City of Haysville Kansas","Haysville, Kansas","UC3XUt81Il2JWijJiV6yqnNw","(37.5644615, -97.3522675)",58,213598
+"226","City of Auburn, Maine","Auburn, Maine","UCn4hg3vz0ftbcLee4mz-1Dw","(44.0978509, -70.2311655)",9,71279
+"227","Town of Lebanon","Lebanon, Maine","UCZV2ij7vU73Dh8C1JAI3QWQ","(43.40066969999999, -70.91937899999999)",11,90835
+"228","SHTV1","Sterling Heights, Michigan","UC0n_eLFiW2cCJ_24TSn9DjA","(42.5803122, -83.0302033)",12,10455
+"229","City of Belleville Council Meetings & Misc. videos","Belleville, Illinois","UCgQcRTdHErSn7yG1AP742Vg","(38.5122211, -89.9843597)",99,701958
+"230","The Municipal Art Society of New York","New York, New York","UC85K3UNE3_ZnDaDJUOWwedw","(40.7589167, -73.9752018)",135,383234
+"231","Port Orange Government Television","Port Orange, Florida","UCTYNmc7tZVRrB2NH5-Oj7hg","(29.1265036, -81.0207434)",34,258420
+"232","Johnson County, KS Government","Olathe, Kansas","UCUMpFQU8E0ifkWVrRz46tyQ","(38.881448, -94.82008990000001)",238,965671
+"233","Decatur, Indiana","Decatur, Indiana","UCYCQSTh8vJ2DEH8IrkbkD3g","(40.830603, -84.9291329)",5,3797
+"234","City of Bellevue Nebraska","Bellevue, Nebraska","UCZc74_1IgTNR4-YuLknTAJw","(41.1543623, -95.9145568)",138,815686
+"235","FridleyMunicipalTV","Fridley, Minnesota","UCgguNa9ShDCIeSXqFZbzphg","(45.084944, -93.26286089999999)",82,278780
+"236","City of Nowthen MN","Nowthen, Minnesota","UCydgQQVA1NUIh3PUbWeZ04w","(45.3324984, -93.44670149999999)",119,1311262
+"237","City of Longmont Colorado","Longmont, Colorado","UCH5_wkpLrKYb1JuUk6-UdNg","(40.1672068, -105.1019275)",224,1847557
+"238","County of San Mateo","San Mateo County, California","UC2bWDXcW6FfdxVyR-V34oag","(37.4337342, -122.4014193)",15,26956
+"239","City of Casper, Wyoming","Casper, Wyoming","UCK-zvDPcmvu0mPRD2LPc6ng","(42.8500769, -106.3251749)",106,1477011
+"240","City of Springfield MA","Springfield, Massachusetts","UCKWQmyAdZvtvGGN6rAFNJcA","(42.1014831, -72.589811)",10,7985
+"241","City of Sherwood","Sherwood, Oregon","UC4hM1ujLIVpZAqSr0vM0Z7g","(45.3562638, -122.8402122)",142,1392696
+"242","City of Idaho Falls","Idaho Falls, Idaho","UCE2S6lYv_OBcXSLi1drW8Ng","(43.49266069999999, -112.0407584)",19,11786
+"243","Rutherford County Government","Murfreesboro, Tennessee","UCGdwu25OPaVj086VWWKtf1A","(35.822984, -86.3966562)",1153,8516795
+"244","City of River Falls","River Falls, Wisconsin","UCoLgQPc-xuxbXrce-2ume-w","(44.8613563, -92.6238082)",14,39228
+"245","City of Evanston, IL","Evanston, Illinois","UChIEhm-DpDtCj0aEKKe_O9A","(42.0450722, -87.68769689999999)",201,540070
+"246","City Of Mayer, MN","Mayer, Minnesota","UC76IJmnDuxPuOAjO_qTvuOQ","(44.8849625, -93.88774529999999)",55,507894
+"247","Marshall County Iowa","Marshall County, Iowa","UC2SRE_isBm8PyHrZNXf3nsA","(42.0407088, -92.9375739)",80,474455
+"248","FultonCountyGovernment","Atlanta, Georgia","UCBdfjTes0C4KkKzXyKiK9zw","(33.751422, -84.39144329999999)",140,34646
+"249","WoodburyCountyIowa","Woodbury County, Iowa","UC7eJFP8TlXCX8V3sDDaePBA","(42.3166158, -95.9832577)",144,935777
+"250","Kansas City, Mo. City Communications","Kansas City, Missouri","UCYYgwhGr1HSqRi_h5uPF2Kg","(39.0083059, -94.4579961)",720,1406750
+"251","City of Enterprise","Enterprise, Alabama","UCcNWtA7WWkhBthBak26TXnQ","(31.3151708, -85.85521609999999)",15,10830
+"252","City of Bristol, VA","Bristol, Virginia","UCsXxrQvvnpoAC60lEn67FhQ","(36.595141, -82.1888089)",48,678150
+"253","VirginiaBeachTV","Virginia Beach, Virginia","UCe1QmZhxHuuZuUdQ9FtzTcA","(36.824443, -76.054352)",420,771592
+"254","City of El Monte CA Government","El Monte, California","UCTnXHhiP0BUIOeo3mGSZ4rg","(34.0682658, -118.0616936)",2,5735
+"255","Warren County, Virginia","Warren County, Virginia","UC4VkJGpBCNGqrwOEuxZSQoQ","(38.9331749, -78.24761459999999)",62,734941
+"256","ILSpringfield","Springfield, Illinois","UCA6i8iv1zPHXx-sfI6DYF1w","(39.78172130000001, -89.6501481)",351,1744317
+"257","DurhamSWCD","Durham, North Carolina","UCMltA0_udTzJ1BXvhKR4WJw","(36.0045172, -78.90172609999999)",3,2552
+"258","The Town of Lexington","Lexington, South Carolina","UCsor0AoZVy2UvAW52JOlbxA","(33.9815369, -81.2362107)",52,234044
+"259","BEDFORD TOWNSHIP GOVERNMENT CENTER","Temperance, Michigan","UCb8mpGZJzyC5LmYOC2VKSvQ","(41.7630647, -83.5852664)",55,578236
+"260","Indiana Counties","Indianapolis, Indiana","UChhq084D5FyZpN1i2MRccDA","(39.7697008, -86.1602262)",22,53365
+"261","Mitchell, SD","Mitchell, South Dakota","UCOdLoS0nXWs5c1ejBbdrZNQ","(43.7094283, -98.0297992)",89,856575
+"262","CityofChulaVista","Chula Vista, California","UCGCeNmeSButuOp4yFCIh9Iw","(32.6400541, -117.0841955)",9,2129
+"263","City of Liberty Lake, WA","Liberty Lake, Washington","UCP0FovX6g8NG4J5wKDLt62A","(47.6743428, -117.1124241)",21,274431
+"264","Akron City Council","Akron, Ohio","UCTRzlObsoxdg6IFgWSFCOgA","(41.0806037, -81.518214)",57,423013
+"265","City of New Carlisle","New Carlisle, Ohio","UChfm1EBjjw6A2GbexgDZ_ag","(39.9361699, -84.0254913)",78,508420
+"266","Cityof Wayne","Wayne, Michigan","UCwr-VD-I64VKtBOqg6jNXxQ","(42.2814269, -83.3863214)",40,582551
+"267","KaysvilleCity","Kaysville, Utah","UCtH-iKmjfeXat6K2wOetoZQ","(41.0352216, -111.9385521)",14,15378
+"268","LWVSJC","Sacramento, California","UC0xqyjb977v3IXocgTSD2_g","(38.58017359999999, -121.4918435)",5,28218
+"269","Salt Lake City Television","Salt Lake City, Utah","UCUzanlS6hJadbrMqnO_iofQ","(40.7324576, -111.9513477)",18,21195
+"270","City of Brandon, SD","Brandon, South Dakota","UCkupAgckAKVqifovUqXw_TQ","(43.5946963, -96.5719896)",67,747120
+"271","City of Kerrville - Government","Kerrville, Texas","UCRt2JqXbobR1471dyOn5MJA","(30.0469117, -99.1409022)",198,1337653
+"272","cityofsantafe","Santa Fe, New Mexico","UCTgU_rclEQSW7XN-sgaCUBA","(35.6869752, -105.937799)",266,485457
+"273","City of Ashland, KY","Ashland, Kentucky","UCyq2LQ4SfzpLNVVsiOXG35w","(38.4784144, -82.63793869999999)",1,9351
+"274","City of Waverly","Waverly, Iowa","UCmAJkXjXePDZKkxPOPpeJpQ","(42.7272032, -92.4668511)",124,1331485
+"275","Laramie, Wyoming - City Government","Laramie, Wyoming","UCtoowHqhTpkeVR14Rey_VGQ","(41.3116389, -105.5918231)",44,598837
+"276","City of Portage","Portage, Indiana","UCF2Ug3N2isAYPqthE20LMTQ","(41.5758707, -87.1761455)",2,11355
+"277","Washington State Auditor’s Office","Olympia, Washington","UCoqV43R7JgM1q7WWi26Sorw","(47.0358904, -122.9033286)",40,26526
+"278","City of Sunnyside Washington","Sunnyside, Washington","UC7fq6y2MjcYTA-GBSTnXiuA","(46.3237423, -120.0086538)",16,60323
+"279","City of Reno","Reno, Nevada","UClQT7q90igEYqA17nm-WwhQ","(39.5296329, -119.8138027)",797,1300210
+"281","LBTV Long Beach, CA","Long Beach, California","UC9tkCWoykFdl-Z-JHSA3ATw","(33.7700504, -118.1937395)",27,22250
+"282","City of Moundridge","Moundridge, Kansas","UCSnGSURxMyO02DQK17O7xJg","(38.203065, -97.5192065)",16,3243
+"283","Hoover, Alabama","Hoover, Alabama","UCEtvZ4p5toQc9p3XH2OTm9g","(33.4053867, -86.8113781)",58,26951
+"284","City of Little Rock","Little Rock, Arkansas","UCoRn4kpi78zlnEN6deMwlQw","(34.7464809, -92.28959479999999)",291,1825110
+"285","CSBTV20","California, US","UC0MKBRS7teISJ5iGufoc_Iw","(36.778261, -119.4179324)",7,154034
+"286","City of La Quinta","La Quinta, California","UCG54GVUvLwUvZPCx596LbkQ","(33.6633573, -116.3100095)",6,1916
+"287","LNKTV City","Lincoln, Nebraska","UCeRPazmGKkWc28SK3si9xWA","(40.813616, -96.7025955)",746,4367613
+"288","Troy Michigan","Troy, Michigan","UCm0tMiLQNPvL4Sz0CTjVYFg","(42.6064095, -83.1497751)",166,1791602
+"289","City of Freeport ILL","Freeport, Illinois","UCPtSul497oxrsjhrn_qhiMw","(42.2966861, -89.6212271)",26,214312
+"290","Clean Water Initiative","Vermont, US","UCcE3IVErioHtVMqAeBLVDZQ","(44.5588028, -72.57784149999999)",32,199412
+"291","Watch Berkeley Gov","Berkeley, California","UCHiRuLn-_8Fk1XMK8W7oP3w","(37.8715926, -122.272747)",159,1377035
+"292","City of Oroville","Oroville, California","UCAoRW34swYl85UBfYqT7IbQ","(39.5137752, -121.556359)",37,343660
+"293","Prevention Institute","Oakland, California","UCVpEtO68Hz0k2vuHWQMJFQQ","(37.7933258, -122.2678571)",45,44621
+"294","Washington State Government","Olympia, Washington","UCsuYgYm8vWyUNUfI3CMzuSQ","(47.037292, -122.897613)",208,881710
+"295","City of Rochester Building Safety","Rochester, Minnesota","UCecGEc0sA9c2rr36BETWxiQ","(44.0242437, -92.43130289999999)",7,65058
+"296","City of Iola, Kansas","Iola, Kansas","UCv4LYM8hh3qeJL32-kR2moA","(37.9244799, -95.3999814)",79,648781
+"297","Winnebago County, Iowa","Winnebago County, Iowa","UCRYede2wUgnmNZpYlSRCDDg","(43.3481922, -93.66232389999999)",43,340056
+"298","Municipal Employees' Retirement System of Michigan","Lansing, Michigan","UCnyUp57EJdcQNfbrD9lm77w","(42.721095, -84.648632)",26,107967
+"299","Morris Minnesota City Government","Morris, Minnesota","UCBEIGAZ0NE9wZwzveonGqgA","(45.5879479, -95.91012409999999)",3,18831
+"300","Town of Rome Wisconsin","Nekoosa, Wisconsin","UC4c0rhMyFqU3QhLrIvqmyBA","(44.2218879, -89.8092904)",17,192489
+"301","Groton Municipal Television","Groton, Connecticut","UCBk-9Ahudi4nbh26x3jZxlA","(41.3497456, -72.0790717)",116,560488
+"302","City of Midland, Michigan","Midland, Michigan","UCjShycow9Ksl3jU9N8lVfPQ","(43.6155825, -84.2472116)",323,188494
+"303","City of Columbus","Columbus, Ohio","UCfttJJ9T5_1W1JewiTJqzqA","(39.9611755, -82.99879419999999)",298,1382539
+"304","Montgomery County TN Government","Clarksville, Tennessee","UColCy-INQM4uZSqrJCeHTGg","(36.5268057, -87.3579623)",65,446826
+"305","City of Cloverdale, Cloverdale, CA","Cloverdale, California","UCDSDDT0okjoOrRhJaetPRbQ","(38.8054624, -123.0172227)",27,384146
+"306","City of Bakersfield, CA.","Bakersfield, California","UCk3BaR0DdO7j_bZSKnIEK4w","(35.3732921, -119.0187125)",106,779529
+"307","Haltom City, Texas","Haltom City, Texas","UCTQ7EcoJXKB8n0Bv6tItjXQ","(32.7995738, -97.26918169999999)",2,40407
+"308","Warren County Board of Supervisors","Vicksburg, Mississippi","UCPx4uFe9iTsgC7dZrpKfw1A","(32.353067, -90.87843620000001)",1,1119
+"309","Mississippi Department of Transportation","Jackson, Mississippi","UCAZJpbHAIyVea2lY2sJBvZQ","(32.3275393, -90.181474)",111,31842
+"310","City of Park City","Park City, Kansas","UCKWmOfUwmKPzAyvzvEvhs5A","(37.8000123, -97.31837619999999)",45,416422
+"311","showmecity","Missouri City, Texas","UCpaZmht_7_Zvunux1zkDt0w","(29.6185669, -95.5377215)",238,444878
+"312","City of Aberdeen","Aberdeen, South Dakota","UC2WDoaiGN9nFc1Zb4pyfpyw","(45.4646985, -98.4864829)",70,348968
+"313","City of Santa Rosa, California","Santa Rosa, California","UChF7Zl4VNfZFm-IUdtX6B_A","(38.440429, -122.7140548)",108,1403611
+"314","TarrantCountyTX","Tarrant County, Texas","UCreZ2-bXXetuRiKZAtXcNNA","(32.7732044, -97.35165579999999)",38,253794
+"315","City of Moore, Oklahoma","Moore, Oklahoma","UCak9ErtW71dyEoj7TmLlqHw","(35.3395079, -97.48670279999999)",330,848739
+"316","City of Murfreesboro, TN - Government","Murfreesboro, Tennessee","UCbOkz_e8N4rIFiZkmWTkf8g","(35.844432, -86.393051)",1124,1955393
+"317","Falmouth Maine","Falmouth, Maine","UCHeGX1GVbkUOB-KSASNDvQw","(43.7435343, -70.2601759)",25,29363
+"318","IndianaGovernment","Indianapolis, Indiana","UCozYWNqZFDoraG0emqv5pxg","(39.76906899999999, -86.164862)",8,23512
+"319","RevereTV","Revere, Massachusetts","UCGl4hREwgcCQxKA52C7Y_Bg","(42.410139, -71.01202540000001)",622,1676186
+"320","Default Name","New Hampshire, US","UCkEAENbr83XdYgNYXG1ZJMw","(43.1938516, -71.5723953)",1,5844
+"321","KingCountyTV","Seattle, Washington","UCmsDL2CRIMtE1I6-eZqEx4g","(47.590017, -122.3344614)",66,234748
+"322","City of Jacksonville, Alabama","Jacksonville, Alabama","UCvjFmKc5lozHgaRQ6wB8D_Q","(33.8137125, -85.76135359999999)",83,430505
+"323","City of Georgetown","Georgetown, Kentucky","UCZeRkYcroXWINV1rkHVlhzw","(38.2097967, -84.55883109999999)",66,684430
+"324","City of Irondale Alabama Media Channel","Irondale, Alabama","UCGKMIsxUusCwlTEQpaKBs1Q","(33.5381601, -86.70721019999999)",23,88300
+"325","mohavecountyus","Mohave County, Arizona","UCxpmqlXxz7UYF9ol80H7dEQ","(35.2143346, -113.7632828)",17,167932
+"327","pcctv1","Clearwater, Florida","UCXRyq4zJBFhs8zpTiIGQL5Q","(27.9616958, -82.8013817)",4,1866
+"328","West Virginia Judiciary","Charleston, West Virginia","UC_zHDYG-Whdzh7nQPyfsItg","(38.3368502, -81.6111525)",76,577115
+"329","CCG TV","Columbus, Georgia","UC3gct-vKDbdIuF1ZTAvtOhA","(32.4609764, -84.9877094)",247,1977389
+"330","Town of Apple Valley Utah","Apple Valley, Utah","UCxfcnSqTRCiZPLqABwMXslQ","(37.10441550000001, -113.1251775)",3,32368
+"331","DuPage County, Illinois","Dupage County, Illinois","UC45ol-gzYfebGvZ3OLhzClA","(41.8243831, -88.0900762)",30,41618
+"332","City of Punta Gorda","Punta Gorda, Florida","UC-Qo-k4PpXWo4IJQah6_Kqw","(26.9297836, -82.0453664)",236,1517278
+"334","City of Beaumont, Ca","Beaumont, California","UCvvsX3mVAdUeT7KLJnFgHYA","(33.9294606, -116.977248)",104,1061676
+"335","Amherst Council Clerk","Amherst, Ohio","UCVbdl2V5DTld5jQ-TSnz5cw","(41.39825099999999, -82.227454)",87,351302
+"336","City of Colonial Heights, Virginia","Colonial Heights, Virginia","UC1tsRrPU64271-CaggUfUmA","(37.244039, -77.4102607)",9,18984
+"337","West Jordan","West Jordan, Utah","UC7Up4AfoWj0KebppgTvnLSg","(40.6096698, -111.9391031)",145,1695026
+"338","City of Hot Springs, Arkansas Government","Hot Springs, Arkansas","UCvSlS0dSXw_50XhzT9E_kMA","(34.5037004, -93.0551795)",172,706134
+"339","City of Texas City","Texas City, Texas","UCdQS7VQBfII7oORQr99sh9g","(29.383845, -94.9027002)",25,20417
+"340","cityofmesquitetexas","Mesquite, Texas","UCISuuU-1AZXnm0-k_2sfJOQ","(32.76679550000001, -96.5991593)",4,6405
+"341","HardinCountyIA","Hardin County, Iowa","UCldvOvGdfCT76xAGFpJ5u7Q","(42.4285425, -93.17796589999999)",116,397607
+"342","Cedar City, Utah - City Council","Cedar City, Utah","UCvv1r4z0JQJjAIgeLmMGmbA","(37.6777847, -113.0610041)",34,329945
+"344","Essex County New York","Essex County, New Jersey","UCUTiUCto7MsxIbqK5M1rMrA","(40.7947466, -74.2648829)",106,362244
+"345","Newark City Council","Newark, Ohio","UCWZ28Fau9gZ1D0U8F2L6UKg","(40.057701, -82.4040069)",203,1184678
+"346","CityofLeagueCityTX","League City, Texas","UCRyTPtc3XEWCGGpT7ddmcJg","(29.5074538, -95.0949303)",21,4956
+"347","City of Stayton","Stayton, Oregon","UCVALQZk-x5ZMWOCGh_fKPtg","(44.8006775, -122.7945333)",47,459180
+"348","City of Guthrie Oklahoma","Guthrie, Oklahoma","UCXgtbXE9AmzOLEYm1wxe6tg","(35.878937, -97.42531849999999)",645,2205474
+"349","City of Sherwood Arkansas","Sherwood, Arkansas","UCF1JLn4XfEMB_403o-gj7PQ","(34.8150907, -92.2243153)",38,191536
+"350","City of Huntington, Indiana","Huntington, Indiana","UC8hwdT9hgRsEUzl-aPlM1vA","(40.8831011, -85.49747599999999)",5,2992
+"351","City of Lowell","Lowell, Michigan","UCeObjQ4b9fmrV22EiBb5KSA","(42.9336426, -85.34196089999999)",172,840881
+"353","City of Brighton, CO (KBRI-8)","Brighton, Colorado","UC7fxHV_KyittFb3M9jDbBGA","(39.9852617, -104.8205283)",86,239781
+"354","City Of Cortez Council Meetings","Cortez, Colorado","UCuJXUzV7IZDST9p2BLMGA7g","(37.3503413, -108.5695371)",44,343695
+"355","MetroNashville","Nashville, Tennessee","UCKpWDnPeJ9IQ9Sx7AfBORhg","(36.171835, -86.78063069999999)",477,1187453
+"356","City of Dover, Delaware","Dover, Delaware","UCE48l9y073rRIXVx9EbLCpA","(39.158168, -75.5243682)",23,124833
+"357","Town of Waxhaw NC","Waxhaw, North Carolina","UCaVNojVBJdyFHzC1zkvhK7w","(34.9245935, -80.7434019)",86,428705
+"358","The Official City Of DeKalb, Illinois Municipal Government Video Channel","DeKalb, Illinois","UC_zpA4Z-yzeySUyvi44cZiQ","(41.928178, -88.7503978)",176,1696763
+"359","PlattevilleWISC","Platteville, Wisconsin","UC6UORZ8U7NlaS3giNhyuAaA","(42.73416, -90.4784621)",88,629718
+"360","centervillecityutah","Centerville, Utah","UCqZ-L_LnFpbGbsBRKz4QFHA","(40.9180005, -111.8721601)",88,1368533
+"361","City of Kingman","Kingman, Arizona","UCCefFg5UL6weXKr-wenyHVQ","(35.189443, -114.0530065)",9,26564
+"362","City of Albany, Oregon","Albany, Oregon","UCbJgGQBiWbOMvpHnGbMLa8w","(44.6365107, -123.1059282)",19,44973
+"363","Provo City Council","Provo, Utah","UC1yR7j8igrjxXOR0XsCasfw","(40.233174, -111.664711)",47,475294
+"364","WaterlooCommunityTV","Waterloo, Iowa","UCykjSisg4jbUpxXoEIOqw5A","(42.485517, -92.3334264)",347,3237035
+"365","Town of Cary","Cary, North Carolina","UCFO7o7pWJ05YPZH6-T0hiyw","(35.79154, -78.7811169)",355,1485881
+"366","City of Albion","Albion, Michigan","UCIsBR9GwwVJIL2wyGJCiXfg","(42.243097, -84.7530304)",7,42431
+"367","City of Savannah","Savannah, Georgia","UCNaTc-Sjmlyby6XoBK8ZtrQ","(32.0808989, -81.091203)",327,756800
+"368","Webster Massachusetts","Webster, Massachusetts","UC1GDU6rDxjb7u7c9NnBm8qw","(42.05009099999999, -71.88006279999999)",75,688583
+"369","Town of New Milford","New Milford, Connecticut","UCy-PHUq7KONS5ytwwbiyMdA","(41.5778088, -73.4101187)",54,604522
+"370","Millville Cable Access","Millville, Massachusetts","UCUmDFf-Vh4YhDiMqAnaMsug","(42.0278756, -71.5808973)",13,153796
+"371","St. Louis County","St Louis County, Missouri","UC2zQKsLDopMP6vAxDzAD0gw","(38.6103023, -90.4125181)",7,9070
+"372","Pembroke Pines Media","Pembroke Pines, Florida","UC5C4-X_lLc_8dZ3pJzYRkZA","(26.0274521, -80.34878549999999)",73,124018
+"373","CityofErie","Erie, Pennsylvania","UCQuw9_BuK-LGyRIOygHdkWw","(42.12922409999999, -80.085059)",304,3003460
+"374","NEK-TV Newport, VT","Newport, Vermont","UCKV7WVHOpRCBCwKh6P_O7iw","(44.9346445, -72.2133462)",32,326522
+"375","CalaverasCommunityTV","Angels Camp, California","UCBa_xGTLZoFxsXKD_T506Qw","(38.0696456, -120.5406678)",608,5204415
+"376","City of New Ulm, MN","New Ulm, Minnesota","UCe4BSgVG_mRBNvu9HThuxnw","(44.3144394, -94.45930179999999)",380,2098042
+"377","Alabama Together","Alabama, US","UCDWgz3YCxKXKbV9fGstbeLw","(32.3182314, -86.902298)",5,1961
+"378","SEMCOG, the Southeast Michigan Council of Governments","Detroit, Michigan","UCr0wxe2H-pgsBP8ag_HPNHQ","(42.332029, -83.0476)",36,27128
+"379","Story County, Iowa","Story County, Iowa","UCTLajnmHYlpovDrzvgi0hMw","(42.1040438, -93.5003454)",50,375653
+"380","City Of Sebastian","Sebastian, Florida","UCpzAJigyTTM4gsU8NrjakIw","(27.816415, -80.4706078)",176,1682821
+"381","Virginia Government","Richmond, Virginia","UCJmtQnnG2MwpHnSMzVj0siQ","(37.5392253, -77.4319501)",125,420512
+"382","Overlook NM","Placitas, New Mexico","UCzdNUVVmpA4paSfwJUGjaLQ","(35.3069845, -106.4486358)",16,8348
+"383","Oconee County GA Government","Watkinsville, Georgia","UCwmtvTm8RGjiwmHUO8DP1mw","(33.855574, -83.39978049999999)",9,2063
+"384","Town of Emmitsburg","Emmitsburg, Maryland","UC17xHnkC_VLkirblkEBdIDQ","(39.7045417, -77.32693069999999)",54,308790
+"385","City of Battle Ground, WA","Battle Ground, Washington","UCdncPb-Uoz18wrk91zGhBig","(45.7806939, -122.5475467)",1,4336
+"386","montgomeryva","Montgomery County, Virginia","UC4309B4P5WeQPjmZze1NUSw","(37.2070304, -80.4103957)",218,1757787
+"387","Boone County, IL Government","Belvidere, Illinois","UCHPpw58YhZQALqaKm1inNpA","(42.2539351, -88.82470459999999)",11,134241
+"388","Marysville City Hall","Marysville, Kansas","UCrPPJ9eQiOxWf3ZisFjK3qQ","(39.842909, -96.648336)",35,643724
+"389","Town of Vernon","Vernon, Connecticut","UCYtqAAiyly9HwdaX6MHmDTg","(41.8186802, -72.47903699999999)",5,49626
+"390","County Supervisors Association of Arizona","Phoenix, Arizona","UClaFI77eHUaMVsDH4uiQzFQ","(33.4476418, -112.1008513)",5,10270
+"391","City of Marion Ohio","Marion, Ohio","UCyKE64OZ0-ACD-5N6oaC-Yw","(40.5886699, -83.1285242)",22,126162
+"392","CHANNEL 17/ TOWN MEETING TV","Burlington, Vermont","UCJkWMLSqRNKLoyUZQiNoAcQ","(44.48777330000001, -73.20746150000001)",355,1086051
+"393","LivoniaTV","Livonia, Michigan","UC81D_yBDdwEXucKYYvCnXOQ","(42.3959845, -83.37006509999999)",141,506438
+"394","Iowa Counties","West Des Moines, Iowa","UCLHmerxoha95Oif5ubraYwA","(41.59464800000001, -93.78072999999999)",20,106308
+"395","City of Crestview","Crestview, Florida","UC6c0B22M2HhR57yJT3OPGyw","(30.7541808, -86.5727995)",17,97479
+"396","City of Charleston SC","Charleston, South Carolina","UCxDws_o-1voXBNOAZ17gZxw","(32.7764749, -79.93105120000001)",32,319911
+"397","City of Saginaw, MI","Saginaw, Michigan","UCTezqtA8UmUTHS_s4F9-Hpw","(43.4194699, -83.9508068)",140,821630
+"398","New Jersey Government","Trenton, New Jersey","UCUsNf-kiBIzayz14C59tKUQ","(40.218798, -74.764752)",816,550018
+"399","City of Mobile, AL","Mobile, Alabama","UCdLrEwf3ewSNmCNm21fVfNg","(30.6953657, -88.0398912)",159,1365532
+"400","Town of Rising Sun","Rising Sun, Maryland","UCVhXWOvvPRbCJ24IyH2tZyg","(39.6978871, -76.06272659999999)",76,414238
+"401","Town of Coventry Rhode Island","Coventry, Rhode Island","UC-C8lpWeCKplTv8DDVh64aA","(41.6885978, -71.5642076)",35,543529
+"402","East Windsor CT","East Windsor, Connecticut","UCgNSFYXWvjpaYULSt-XoZOA","(41.9161361, -72.5578799)",30,442605
+"403","Unified Government of Wyandotte County / Kansas City, KS","Kansas City, Kansas","UC64VEdFxbNUAkmtYHwXwoJA","(39.1129848, -94.62542409999999)",3,7342
+"404","Wallingford Government Television","Wallingford, Connecticut","UCdWP8OnNWc1nyrtewoqYRpQ","(41.4864179, -72.7907814)",125,1303182
+"405","City of Columbia","Columbia, South Carolina","UC6-Zkaz4V41CKJRyqTNAzTg","(34.0007104, -81.0348144)",290,389785
+"406","Will County Board","Joliet, Illinois","UCfyLcOmTH_aH_aIgCtUgnBg","(41.5300049, -88.08104469999999)",84,713315
+"407","ClarkCountyNV","Clark County, Nevada","UCjTkV9P9szNXPht8tJKl0aw","(36.0795613, -115.094045)",12,4672
+"408","City of Irvine","Irvine, California","UClqzzO7LI1d8KB20gwDnd0g","(33.6845673, -117.8265049)",23,14585
+"409","Carroll County, Virginia","Carroll County, Virginia","UC0g49JAgfj_NkbR6eDtgdyw","(36.6778699, -80.7214417)",3,1967
+"410","CityofGulfport FL","Gulfport, Florida","UCMcHz3QnFbjgo_QVvyJYDMQ","(27.7483613, -82.7034334)",114,147252
+"411","City of Nogales Arizona","Nogales, Arizona","UC2CaTc0tirQupKj3y2zIQSg","(31.3403775, -110.9342532)",81,609372
+"412","Oklahoma County","Oklahoma County, Oklahoma","UCz_5jEcl6kV8f6Y71exwfJA","(35.6038323, -97.35165579999999)",173,813754
+"413","Taneytown MD","Taneytown, Maryland","UCQ7oudT2tx4u4P81ClUD6Hg","(39.6578773, -77.1744279)",104,727193
+"414","Columbus Municipal School District - MS","Columbus Municipal School District, Mississippi","UC5aQEWlv0bv0RfURb9dIEeA","(33.5403856, -88.4210006)",36,332582
+"415","City of Las Vegas, New Mexico","Las Vegas, New Mexico","UCNGDVGRRAL0qVevel5JYeRw","(35.5942137, -105.2227978)",27,218915
+"416","CRTL Idaho","Idaho Falls, Idaho","UCNgX63P-NrTDkW1b57j23jA","(43.448534, -112.082023)",6,12241
+"417","Town of Brighton","Brighton, New York","UCRac-30bEStYoqUvi6HkiWw","(43.1222716, -77.57340479999999)",42,483972
+"418","City of Calhoun, GA","Calhoun, Georgia","UCFPzDB48ZQ6IAF_z0NQBPKQ","(34.502587, -84.9510542)",27,177765
+"419","City of Marshall, MN - Studio 1 TV","Marshall, Minnesota","UCQN3dBrZlxrHNc6G0HTnIZA","(44.454693, -95.758934)",192,1331087
+"420","City of Salida Colorado","Salida, Colorado","UCmmG6TTREbWPiGhQK_Jy1Ig","(38.5347193, -105.9989022)",173,2044964
+"421","City of Bonner Springs, Kansas","Bonner Springs, Kansas","UCyUl-B3mt386DdFgJqYfFyg","(39.059726, -94.8835754)",35,222764
+"422","collincountygovt","McKinney, Texas","UC-E9aeShO9W7onfC1AoIwzw","(33.241749, -96.6318)",1,1104
+"423","City of Jackson, MS - Government","Jackson, Mississippi","UCqo3szaVkdRjZ1cw1kKZktg","(32.2981176, -90.1819512)",31,77572
+"424","City of Edwardsville, KS - Government","Edwardsville, Kansas","UC2M-zO1Jcwm4YOjbxFhdNAA","(39.0562158, -94.82191519999999)",32,240807
+"425","City of Madison Wisconsin","Madison, Wisconsin","UC3IAPMgYfaBEJ5eeqbvWkzQ","(43.0730517, -89.4012302)",111,389334
+"426","Portsmouth, Virginia","Portsmouth, Virginia","UCZLXNtcdwwjECrPg6YrTiYg","(36.8354258, -76.2982742)",489,3150815
+"427","FultonGovernmentTV","Atlanta, Georgia","UCYH7E0jH6HxE-3KTRluH8SQ","(33.7513931, -84.3913883)",58,170419
+"428","MAofSC","Columbia, South Carolina","UCy9fEYosYMZ8hHNjC5Ckcgw","(34.0027059, -81.0298034)",75,21808
+"429","City of Dublin, CA","Dublin, California","UCVxFLCImmHgKXs9RQkY6OkA","(37.7021521, -121.9357918)",6,3475
+"430","Exeter, Rhode Island","Exeter, Rhode Island","UC_0OoUlSPYRpwmRMpQ8-sCw","(41.5750676, -71.5351476)",18,244307
+"431","City of Beresford, South Dakota","Beresford, South Dakota","UCPY5tEeuWxpKG4zHoSzAPVg","(43.0805446, -96.77365499999999)",3,8959
+"432","GOCC WISCONSIN","Wisconsin, US","UCltp6NRcZoNXtHllH8VOMYQ","(43.7844397, -88.7878678)",1,18932
+"433","Official City of Stonecrest Georgia","Lithonia, Georgia","UCp3rYzHzhZvd9Y7Ruf1O6kg","(33.6904766, -84.0838805)",11,126699
+"434","CityofPalmdale","Palmdale, California","UCJHoqIwLNDlVFu7vZEJNkdA","(34.5794343, -118.1164613)",2,6639
+"435","Larimer County Government","Fort Collins, Colorado","UCTZ-neESjN8BeV_MKQEc5Uw","(40.5865084, -105.0797411)",1,4761
+"436","Long Branch","Long Branch, New Jersey","UCazWLOC-aO4snD-76P7IhbA","(40.30427780000001, -73.9923596)",14,85253
+"437","Ally Miller, Pima County District 1 Supervisor","Tucson, Arizona","UC79IZA1RmoYaLOFWLbqY2fQ","(32.221975, -110.9736346)",283,588503
+"438","Town of Old Saybrook Video Library","Old Saybrook, Connecticut","UCwq-kallXEqCHOy9C35r34A","(41.2902388, -72.3744107)",180,1289203
+"439","Erie County, Pennsylvania - Government","Erie, Pennsylvania","UCDEhxGyYjgZkYrLb-NGeq2g","(42.1291683, -80.0879985)",60,316021
+"440","Vidalia Louisiana","Vidalia, Louisiana","UCa6cbVaGERmEA6WGt33z-dg","(31.5654441, -91.4259495)",73,254337
+"441","LawrenceburgIN","Lawrenceburg, Indiana","UCQ2JDPkIH-LfT_WRhvrYOMA","(39.090891, -84.8499504)",106,736485
+"442","CITY OF HOLLYWOOD PARK","Hollywood Park, Texas","UCZnWXeNy5xRZUYFGT86lPMA","(29.6005047, -98.48724)",10,70643
+"443","McDowell County Government - North Carolina","Marion, North Carolina","UC0mTfn8VlbzCAPoS4ypHSbQ","(35.6839474, -82.0082269)",31,337074
+"444","Wake County","Wake County, North Carolina","UCJWIhzcE0ZVmh3kcZSj7gDA","(35.8031909, -78.5660852)",13,26811
+"445","City of Newport RI","Newport, Rhode Island","UCQEXfLzrNpxe7AZme3dTP0w","(41.4901024, -71.3128285)",6,30463
+"446","Piedmont West Virginia Info Network","Piedmont, West Virginia","UCAzc8Mv9NyzjOG2xD1KZFEg","(39.4824455, -79.04717529999999)",26,125534
+"447","NH Municipal Association","Concord, New Hampshire","UCJAJA0rcyK-nviBQyZbDSRw","(43.2191404, -71.4880368)",1,8336
+"448","Sun City AZ","Sun City, Arizona","UCdLy0Uy9sKWCJNLz37tn5ug","(33.5975393, -112.2718239)",17,100024
+"449","Rappahannock News","Washington, Virginia","UCfrlkifp1NKxUnONQi4IFqA","(38.7125007, -78.15999029999999)",49,521941
+"450","Mendocino County Video","Mendocino, California","UCSYcX7uSxr-GyRh20JtuwFg","(39.2917155, -123.7544678)",72,720271
+"451","City of Kitttitas WA 98934","Kittitas, Washington","UCEzXaxmyxepL5x1y2Y6c3Mw","(46.9802702, -120.416799)",2,6474
+"452","City of San Diego","San Diego, California","UCCd4neYX0bX9UEYKJZsgpBw","(32.715738, -117.1610838)",1,6299
+"453","Greenwood Indiana","Greenwood, Indiana","UC60y34F88H1zvYh0sg3AdTg","(39.6136578, -86.10665259999999)",8,47707
+"454","Walton County Georgia Government","Monroe, Georgia","UCj0GzvDmT3kXYcl731gQhZQ","(33.7972101, -83.6962483)",14,14968
+"455","Westchester County Government New York","White Plains, New York","UCOE0wn9vJwY2TcgJNBIpIDA","(41.0294391, -73.76753719999999)",5,4183
+"456","Troy Ohio Videos","Troy, Ohio","UCNnrSMWnG45jXoMSlwVFSNg","(39.9872837, -84.20216940000002)",388,1008222
+"458","CityofAikenSC","Aiken, South Carolina","UCHtMErIZ0_lu5v3kJAzPitg","(33.5604168, -81.7195533)",50,324073
+"459","Governor Asa Hutchinson","Little Rock, Arkansas","UCLJcNdgp2PMEmiqJEoYzqwQ","(34.7469468, -92.2889342)",196,355118
+"460","City of Cortland, Ohio","Cortland, Ohio","UC4Mu0kFfL3Cei3ZOZc5Zyeg","(41.3303342, -80.7253575)",44,142153
+"461","City of Whitehall, Ohio","Whitehall, Ohio","UCvjez8n5YvwKfEZ-2RX9fkg","(39.9667308, -82.8854559)",50,252578
+"462","New York City Council Member Laurie A. Cumbo","New York, New York","UCxBVCe2yzB9z24oMA6WovEw","(40.7872584, -73.971346)",20,4509
+"463","LCDC Maine","Lincoln County, Maine","UCXdIEZfDNG_QgJOAmCtWn8Q","(44.108282, -69.511031)",19,1664
+"464","Maryland Business for Responsive Government","Columbia, Maryland","UC9-lxdBwbGwCMl2Nci9x04A","(39.197507, -76.853346)",3,10428
+"465","City of Dearborn Heights, MI","Dearborn Heights, Michigan","UCRdsv07DxBTF5ZWgiqXPcKw","(42.3369816, -83.27326269999999)",17,131080
+"466","Coventry Meeting","Coventry, Rhode Island","UCJSTZH1geFoNt2VH2lHEGGg","(41.6993579, -71.54891099999999)",117,501130
+"467","City of Beaumont - Government","Beaumont, Texas","UCnY6nNk8zfXZulMg1zbwEBg","(30.0818183, -94.0944202)",8,1735
+"468","SB County Community Development & Housing Agency","Barstow, California","UCObCQpOZy4Z6zfG0pyKxPYQ","(34.875742, -117.0141083)",3,22254
+"469","City of Iowa City Government","Iowa City, Iowa","UCxvLmwfHhFfaqHnQYrhncqA","(41.6604909, -91.52949319999999)",1,2510
+"470","Salem County Government NJ","Salem, New Jersey","UCB_2qtc3DG7v5JbRq-7HZ-Q","(39.5870389, -75.4543516)",14,4787
+"471","City of Franklin, VA","Franklin, Virginia","UCMmXa_L4o0ZgMpRDCZs1syA","(36.6776507, -76.9224608)",17,197918
+"472","Westmoreland City Council Meetings","Westmoreland, Tennessee","UCgjmBbalmzDjqkZdJbS0AgQ","(36.561532, -86.24781000000002)",32,177924
+"473","Humboldt County Iowa","Humboldt County, Iowa","UCZ6V3dlCIihapzhYTHjpCxw","(42.7482597, -94.19234000000002)",100,879517
+"474","Catoosa County Government","Ringgold, Georgia","UC64XOfN6J-FoYWa8r3nsXzg","(34.9143911, -85.1120737)",1,5694
+"475","Brookfield CT","Brookfield, Connecticut","UCe10fHPwRxmDQ9oxitmqn3g","(41.4825947, -73.4095652)",1,5039
+"476","Pittsylvania County Virginia","Pittsylvania County, Virginia","UCBZbT6gifgJPXGq9Rt7z5lw","(36.7440186, -79.4703885)",52,422201
+"477","Citizens4Integrity","South Dakota, US","UCsao3TFcldlkoBifyeanZ5g","(43.9695148, -99.9018131)",12,35830
+"478","Town of Stafford Connecticut Government","Stafford Springs, Connecticut","UClrauDkq299UCkPjf4VTGrw","(41.9504823, -72.3080983)",4,21631
+"479","City of Marion Illinois","Marion, Illinois","UCUKL9LxylG4TP8YgVSaSwjQ","(37.7306054, -88.9331256)",72,427950
+"480","Logan County Oklahoma Local Government","Guthrie, Oklahoma","UCHO_-sm2MrhIrt8AivUhMvA","(35.8780672, -97.4275742)",19,58704
+"481","Cumberland County PA - Commissioners","Carlisle, Pennsylvania","UCDuoEW_vCX40aemvNS9RnKw","(40.20116700000001, -77.188848)",185,870779
+"482","City of Altoona, WI","Altoona, Wisconsin","UCLG1rb91nDPt2S5APItfccg","(44.8046825, -91.44321479999999)",8,6438
+"483","HopeCity NC","Winston-Salem, North Carolina","UC2NXXKwoDujEJ38TJufBNTg","(36.0024462, -80.1493969)",143,497886
+"485","City of Lennox South Dakota","Lennox, South Dakota","UCv3rb5ZDuUF4uFk6yzeJEmQ","(43.3541476, -96.8919951)",2,13907
+"486","Wisconsin BBA Government","Madison, Wisconsin","UCM7ezxQo8FxzGRqalOuAXYw","(43.0727758, -89.4014904)",12,2625
+"487","ClerkPBC","West Palm Beach, Florida","UCNvqLXX6GTxXT7Oh2ugk2Zw","(26.7152573, -80.0539668)",4,6764
+"488","Newburgh Maine","Newburgh, Maine","UCiANGUnQ2sSa7SaV_sSW2Aw","(44.71736749999999, -69.0003898)",38,273389
+"489","Huntsville AL Chamber","Huntsville, Alabama","UCAAaVq-FtTy8HOhVel2f8sQ","(34.732008, -86.58898599999999)",16,11685
+"490","Helena Civic Television","Helena, Montana","UC9AloSLo5HpsRCpfnFo7fcQ","(46.60445199999999, -112.0225599)",52,194785
+"491","JolietChamber","Joliet, Illinois","UCrw4xfNf3J6cLHhBT9MZONw","(41.525363, -88.08194300000001)",12,15202
+"492","The Rappahannock Record","Kilmarnock, Virginia","UCLvUPpawpHiVisnCS6XAkqA","(37.7114492, -76.3808789)",11,41041
+"493","montgomerycountymd","Montgomery County, Maryland","UC5NXwF1EDfbecNogLVlrALw","(39.1547426, -77.2405153)",50,70235
+"494","Bernalillo County","Bernalillo County, New Mexico","UCAKt5BZwiEUsv7sfIuPVDFQ","(35.0177854, -106.6291304)",4,21904
+"495","CityofTacoma","Tacoma, Washington","UCeE_KkLW1qXJvzHPt6jCquQ","(47.2528768, -122.4442906)",2,3545
+"496","fultoncountybcbs","Atlanta, Georgia","UCwvUHaBlFXXlE56OIqw18bQ","(33.8477268, -84.36819779999999)",6,4666
+"497","Woodland Park Colorado","Woodland Park, Colorado","UCeKKRfEM3cKxDB3yz19_eDQ","(38.9938808, -105.0569301)",133,1115208
+"498","Spring Lake, NC","Spring Lake, North Carolina","UCm0CjxLmNE738zbbEDXqKbg","(35.1679395, -78.97280560000002)",2,3431
+"499","City of La Marque, Texas","La Marque, Texas","UCxVsgw5xtGI61mjpnZIsq_A","(29.3685674, -94.9713134)",7,23339
+"500","Minneapolis KS City Council","Minneapolis, Kansas","UCA6z63vmfvbdwJ2AYtXy05Q","(39.1231551, -97.7056365)",20,127008
+"501","Lovington CityHall","Lovington, New Mexico","UClx_ZlWABOnJ8VIMCmNxUHQ","(32.9469039, -103.3474216)",2,12325
+"502","CDL Boulder City, NV","Boulder City, Nevada","UCafmz4bssPAHklFxg7bYnGg","(35.976325, -114.849629)",4,15199
+"503","Wilson County, TN - Government","Lebanon, Tennessee","UCJ0nj4kiFHnfPUlW4uySzww","(36.2131167, -86.28905320000001)",38,75738
+"504","TheBurbankChannel","Burbank, California","UCNDlWLv3ZR1YlYRBxemNF3A","(34.1808392, -118.3089661)",1,6156
+"505","Central County Water Control District","Clewiston, Florida","UCPO42Ece_pmdcQnrtDze-VA","(26.6227859, -81.0785101)",3,29192
+"506","Iowa Government","Des Moines, Iowa","UCc0mFeh-UgNJJ8rckSDSeFw","(41.591247, -93.6009484)",7,7285
+"507","Town of Hope Indiana","Hope, Indiana","UCP0V3YxQavE_NWKSYNw-7EQ","(39.3039397, -85.77137220000002)",2,20146
+"509","MS Library Commission","Jackson, Mississippi","UCQ3sc0r86d2-cZ-NngizHRA","(32.3394965, -90.14696359999999)",13,4563
+"510","North Beach MD Town Meetings","North Beach, Maryland","UC8Fpm9HJuO0ucbnCqp5H60w","(38.7048652, -76.53337619999999)",2,11860
+"511","Peoria County, IL, Government","Peoria, Illinois","UC-qaAdj6tzIxqi3odzEoMlQ","(40.6929334, -89.5897553)",4,1031
+"512","City of Huntington, WV","Huntington, West Virginia","UCIbOv9DiKt7s8KPLAjRwD8g","(38.4192496, -82.44515400000002)",5,7823
+"513","Davie County Government North Carolina","Mocksville, North Carolina","UCAiN6jkUKjTwR9skwbCiX7g","(35.8936073, -80.5622214)",20,73224
+"514","Arizona City Council Managers","Paradise Valley, Arizona","UCfETHSDPPzHUpTnt1v4ETSw","(33.5307551, -111.9425145)",1,18969
+"515","Dermott, AR - City Council Meetings","Dermott, Arkansas","UCvnMypyvB77uiB3lQOM31WQ","(33.527622, -91.43401899999999)",6,18741
+"516","City of Cuba, Missouri","Cuba, Missouri","UCh7i3_jSD81CUG2b4SsMRHw","(38.0628225, -91.40348329999999)",12,9340
+"517","Town of Scottsville, Virginia","Scottsville, Virginia","UCaHK29YBXdB-aMl_b6e7rhA","(37.798754, -78.4955648)",2,9009
+"518","Mississippi Department of Human Services","Jackson, Mississippi","UCyIAzmybt32v-YoYNYbDVHw","(32.2983727, -90.1860277)",5,2348
