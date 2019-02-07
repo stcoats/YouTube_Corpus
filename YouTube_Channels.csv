@@ -1,4 +1,4 @@
-channel_name,channel_id,real_state,lat_long,transcript_count,wordcount,speech_duration
+channel_name,channel_id,real_state,lat_long,transcript_count,word_count,speech_duration
 Rutherford County Government,UCGdwu25OPaVj086VWWKtf1A,Tennessee,"(35.822984, -86.3966562)",1160,8569491,1003:29:13.62
 CityOfGreenBay,UCd0WTidHx2LPWIJY-xrH9eg,Wisconsin,"(44.5133188, -88.0132958)",656,5520970,578:05:24.4
 CalaverasCommunityTV,UCBa_xGTLZoFxsXKD_T506Qw,California,"(38.0696456, -120.5406678)",612,5235882,604:04:46.04
