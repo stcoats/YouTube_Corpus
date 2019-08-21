@@ -1,6 +1,8 @@
 from pathlib import Path
 import subprocess
 
+#dn1 is a pandas frame with channel names and ids created from the yt_channel_scraper.py script. 
+#old_channels is a frame containing channels that have already been downloaded
 xxx=[]
 dnew_p = pd.DataFrame()
 for i,w in dn1.iterrows():
@@ -27,7 +29,7 @@ for i,w in dn1.iterrows():
                                 "en",
                                 "https://youtu.be/"+y.decode('utf-8'),
                                 "-o",
-                                "/home/cloud-user/taito_wrk/DONOTREMOVE/dialects/government_videos/%s"% w["state"]+"/%s"% w["channel_title"]+"/%(title)s.%(ext)s" ],
+                                "/path/to/storage%s"% w["state"]+"/%s"% w["channel_title"]+"/%(title)s.%(ext)s" ],
                                      stdout=subprocess.PIPE)
                             proc1 = result.stdout
                             xxx.extend(x)
