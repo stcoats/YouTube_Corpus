@@ -1,6 +1,6 @@
 # YouTube_Corpus
 Scripts for scraping transcript files from YouTube
-
+[![DOI](https://zenodo.org/badge/167958340.svg)](https://zenodo.org/badge/latestdoi/167958340)
 
 This repository contains scripts used to collect transcripts from YouTube. For more information, please see 
 
